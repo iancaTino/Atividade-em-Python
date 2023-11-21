@@ -1,1 +1,1 @@
-/* Atividades em Python
+# Atividades em Python
